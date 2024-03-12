@@ -1,0 +1,22 @@
+//first choice
+//this class is created for reading equations
+public class Equation{
+}
+
+//this class is created for solving equations
+public class EquationSolver{
+}
+//depending on the program we write we may add some classees
+
+//second choice(quarto)
+//This class represents the game board, keeping track of the placed pieces and their positions.
+public class board{
+}
+
+//This class represents a single Quarto piece, holding information about its four properties (height, color, material, shape)
+public class piece{
+}
+
+//This class represents a single Quarto piece, holding information about its four properties (height, color, material, shape)
+public class player{
+}
